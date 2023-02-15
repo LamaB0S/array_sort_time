@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676457865 source:c:\users\lama\desktop\Новая папка\test\main.cpp
+	<time.h>
+	<stdio.h>
+	<windows.h>
+
